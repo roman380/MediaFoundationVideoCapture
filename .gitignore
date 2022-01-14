@@ -1,0 +1,10 @@
+*.bak
+*.lnk
+*.user
+*.aps
+.vs
+.sentry-native
+/bin
+/data
+/input
+/release
